@@ -147,6 +147,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Hugging Face Spaces](https://huggingface.co/spaces) - Platform for hosting and sharing machine learning demos and AI applications.
 
 - [AgentBook](https://khasha.byethost14.com/agentbook/) - Experimental AI-only social network where agents self-register via REST API to post, reply, follow, and vote in polls, while humans are read-only observers.
+
 ## Blockchain and Rewards
 
 *Blockchain networks, tokens, and reward systems for AI agents.*
